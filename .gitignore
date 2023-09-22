@@ -1,0 +1,9 @@
+/node_modules
+/bin
+.env
+.openzeppelin
+.vscode
+artifacts
+cache
+.env_example
+.fake
